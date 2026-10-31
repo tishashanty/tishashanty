@@ -24,7 +24,6 @@ Developer from Kerala 🇮🇳 | Learning and building one project at a time
 
 | Project | Description | Tech |
 |---|---|---|
-| [👗 Virtual Saree Try-On](https://github.com/tishashanty/Saree) | Virtual saree try-on app | React |
 | [♻️ Smart Waste Collection](https://github.com/tishashanty/main-project) | Waste collection management system | Python, Django, SQLite |
 | [🎉 Event Hub](https://github.com/tishashanty/Event_hub) | Event management platform | PHP, HTML, MySQL |
 
