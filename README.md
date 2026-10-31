@@ -8,6 +8,7 @@
 
 </div>
 
+
 ---
 
 ## 👩‍💻 About Me
@@ -15,6 +16,7 @@
 - 💼 Working on **React projects**
 - 🤝 Open to collaborating on **AI features**
 - 📍 Based in **Kerala, India** 🇮🇳
+  <img src="https://raw.githubusercontent.com/tishashanty/tishashanty/output/snake.svg" width="100%" />
 
 ## 🛠️ Tech Stack
 
